@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-- 🎓 7th Semester, **BS Software Engineering**, University of Management and Technology (UMT), Lahore
+- 🎓 8th Semester, **BS Software Engineering**, University of Management and Technology (UMT), Lahore
 - 🧠 Currently building **IntelliRoads** — an AI-based traffic signal optimization system (Final Year Project) using SUMO + Python TraCI
 - 🤖 Shipped **AreebaBot**, a production RAG chatbot using LangChain, FAISS & Groq LLM inference — live on Streamlit
 - 🏆 NAVTTC-certified **MERN Stack Developer (A+)** — Government of Pakistan
