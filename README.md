@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-- 🎓 8th Semester, **BS Software Engineering**, University of Management and Technology (UMT), Lahore
+- 🎓 7th Semester, **BS Software Engineering**, University of Management and Technology (UMT), Lahore
 - 🧠 Currently building **IntelliRoads** — an AI-based traffic signal optimization system (Final Year Project) using SUMO + Python TraCI
 - 🤖 Shipped **AreebaBot**, a production RAG chatbot using LangChain, FAISS & Groq LLM inference — live on Streamlit
 - 🏆 NAVTTC-certified **MERN Stack Developer (A+)** — Government of Pakistan
@@ -60,8 +60,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-eight-nu.vercel.app/api?username=areeba83&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats-eight-nu.vercel.app/api/top-langs/?username=areeba83&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=areeba83&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areeba83&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
