@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm Areeba Amar</h1>
-<h3 align="center">Applied AI Engineer & Full-Stack Developer | RAG Architecture · Neural Networks · MERN</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Areeba%20Amar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Applied%20AI%20Engineer%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=18" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A81B&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%40+UMT+Lahore;Building+RAG+Chatbots+with+LangChain+%2B+FAISS;MERN+Stack+%7C+Python+%7C+Django+%7C+Java;NAVTTC+Certified+MERN+Developer+(A%2B);Looking+for+Summer+2026+Internship+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%40+UMT+Lahore;Building+RAG+Chatbots+with+LangChain+%2B+FAISS;MERN+Stack+%7C+Python+%7C+Django+%7C+Java;NAVTTC+Certified+MERN+Developer+(A%2B);Looking+for+Summer+2026+Internship" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/areeba-amir-a43491271/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:areeba.amar.khan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://portfolio-mu-livid-44.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-030712?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/areeba-amir-a43491271/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>&nbsp;
+  <a href="mailto:areeba.amar.khan@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>&nbsp;
+  <a href="https://portfolio-mu-livid-44.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2C5364?style=flat-square&logo=vercel&logoColor=white"></a>&nbsp;
+  <a href="https://github.com/areeba83"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
 </p>
-
----
 
 ### 🚀 About Me
 
@@ -80,5 +78,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=areeba83&color=blueviolet&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=areeba83&color=2c5364&style=flat" alt="profile views" />
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" />
