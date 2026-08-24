@@ -1,4 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Areeba%20Amar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Applied%20AI%20Engineer%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=18" />
+<h1 align="center">Hi 👋, I'm Areeba Amar</h1>
+<h3 align="center">Applied AI Engineer & Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%40+UMT+Lahore;Building+RAG+Chatbots+with+LangChain+%2B+FAISS;MERN+Stack+%7C+Python+%7C+Django+%7C+Java;NAVTTC+Certified+MERN+Developer+(A%2B);Looking+for+Summer+2026+Internship" alt="Typing SVG" />
