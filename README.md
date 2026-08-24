@@ -68,6 +68,10 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=areeba83&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=areeba83&theme=tokyonight&column=4&margin-w=10&margin-h=10&no-frame=true" />
+</p>
+
 ---
 
 ### 📫 Reach Me
