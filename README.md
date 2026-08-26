@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2C5364&center=true&vCenter=true&width=800&height=80&lines=Hi+%F0%9F%91%8B,+I'm+Areeba+Amar;Applied+AI+Engineer+%26+Full-Stack+Developer;Building+RAG+Chatbots+%2B+AI+Systems;Looking+for+Summer+2026+Internships" alt="Header Banner" />
+  <img src="./banner.svg" alt="Header Banner" width="100%" />
   <br/>
   <p>
     <a href="https://www.linkedin.com/in/areeba-amir-a43491271/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
@@ -137,6 +137,18 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://readme-activity-graph.vercel.app/graph?username=areeba83&bg_color=0F2027&color=ffffff&line=2C5364&point=2C5364&area=true&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/areeba83/areeba83/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/areeba83/areeba83/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/areeba83/areeba83/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 <br/>
 <img src="https://placehold.co/800x2/2C5364/2C5364.png" width="100%" />

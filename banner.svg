@@ -1,0 +1,27 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0F2027;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#203A43;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2C5364;stop-opacity:1" />
+    </linearGradient>
+    <style>
+      .title {
+        font: bold 38px 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Arial, sans-serif;
+        fill: #ffffff;
+      }
+      .subtitle {
+        font: 500 22px 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Arial, sans-serif;
+        fill: #c6e0eb;
+      }
+      .subtitle2 {
+        font: 400 16px 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Arial, sans-serif;
+        fill: #8fb1c2;
+      }
+    </style>
+  </defs>
+  <rect width="800" height="200" rx="10" fill="url(#grad)" />
+  <text x="400" y="85" text-anchor="middle" class="title">Hi 👋, I'm Areeba Amar</text>
+  <text x="400" y="130" text-anchor="middle" class="subtitle">Applied AI Engineer &amp; Full-Stack Developer</text>
+  <text x="400" y="165" text-anchor="middle" class="subtitle2">Software Engineering Student @ UMT Lahore | Building RAG Chatbots</text>
+</svg>
