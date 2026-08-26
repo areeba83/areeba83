@@ -60,16 +60,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=areeba83&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=areeba83&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=areeba83&show_icons=true&bg_color=0F2027&title_color=2C5364&text_color=ffffff&icon_color=2C5364&border_color=2C5364"/>
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=areeba83&layout=compact&bg_color=0F2027&title_color=2C5364&text_color=ffffff&border_color=2C5364"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=areeba83&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=areeba83&theme=tokyonight&column=4&margin-w=10&margin-h=10&no-frame=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=areeba83&background=0F2027&stroke=2C5364&ring=2C5364&fire=2C5364&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </p>
 
 ---
@@ -85,5 +81,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=areeba83&color=2c5364&style=flat" alt="profile views" />
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" />
