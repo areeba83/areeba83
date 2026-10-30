@@ -118,7 +118,7 @@ Selenium test suite using the **Page Object Model**, with 11/11 tests passing.
 Open to AI/ML and full-stack opportunities, collaborations and good conversations about RAG, RL and building things that actually ship.
 
 - 📧 areeba.amar.khan@gmail.com
-- 🔗 [linkedin.com/in/areeba-amir-a43491271](https://www.linkedin.com/in/areeba-amir-a43491271/)
+- 🔗 [linkedin.com/in/areeba-amar-a43491271](https://www.linkedin.com/in/areeba-amar-a43491271/)
 
 <div align="center">
 
