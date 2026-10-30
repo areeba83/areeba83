@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/areeba-amar-a43491271/)
 [![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:areeba.amar.khan@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-A855F7?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/areeba83/Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-A855F7?style=for-the-badge&logo=githubpages&logoColor=white)](https://areeba83.github.io/Portfolio/)
 
 </div>
 
@@ -76,7 +76,7 @@ Selenium test suite using the **Page Object Model**, with 11/11 tests passing.
 </tr>
 </table>
 
-**More:** 👗 Fashion-MNIST classifier comparing 5 neural architectures (best 88.83%) · 🏦 LegacySecure Bank: legacy code refactored through 5 versions with SOLID principles and characterization tests · 🌐 [Portfolio website](https://github.com/areeba83/Portfolio)
+**More:** 👗 Fashion-MNIST classifier comparing 5 neural architectures (best 88.83%) · 🏦 LegacySecure Bank: legacy code refactored through 5 versions with SOLID principles and characterization tests · 🌐 [Portfolio website](https://areeba83.github.io/Portfolio/)
 
 ---
 
