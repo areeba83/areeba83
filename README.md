@@ -1,96 +1,127 @@
 <div align="center">
-  <img src="banner.svg" alt="banner" width="100%" />
 
-  <br><br>
+<img src="banner.svg" alt="Areeba Amar banner" width="100%"/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%40+UMT+Lahore;Building+RAG+Chatbots+with+LangChain+%2B+FAISS;MERN+Stack+%7C+Python+%7C+Django+%7C+Java;NAVTTC+Certified+MERN+Developer+(A%2B);Looking+for+Summer+2026+Internship" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=720&lines=AI%2FML+Intern+%40+Systems+Limited;Building+RAG+Chatbots+%26+RL+Systems;Full-Stack+Developer+(MERN+%2B+Python);NAVTTC+Certified+MERN+Developer+(A%2B)" alt="Typing SVG" />
+</a>
 
-  <br><br>
+<br/><br/>
 
-  <a href="https://www.linkedin.com/in/areeba-amir-a43491271/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:areeba.amar.khan@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://portfolio-mu-livid-44.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://github.com/areeba83"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/areeba-amar-a43491271/)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:areeba.amar.khan@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-A855F7?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/areeba83/Portfolio)
+
 </div>
 
-<br>
+---
+
+## 👩‍💻 About Me
+
+- 🎓 BS Software Engineering @ **University of Management and Technology (UMT), Lahore** — Batch 2023–2027
+- 💼 **AI/ML Intern @ Systems Limited**, Lahore
+- 🤖 I build **RAG chatbots**, **reinforcement learning** systems and **full-stack** apps, and I test them before I trust them
+- 🏅 **NAVTTC** JavaScript Full-Stack (MERN) certified — **A+ grade**
+- 🌱 Going deeper into applied AI: retrieval quality, evaluation and reliability of LLM systems
 
 ---
 
-<br>
+## 💼 Experience
 
-### 🚀 About Me
-
-- 🎓 8th Semester, **BS Software Engineering**, University of Management and Technology (UMT), Lahore
-- 🧠 Currently building **IntelliRoads** — an AI-based traffic signal optimization system (Final Year Project) using SUMO + Python TraCI
-- 🤖 Shipped **AreebaBot**, a production RAG chatbot using LangChain, FAISS & Groq LLM inference — live on Streamlit
-- 🏆 NAVTTC-certified **MERN Stack Developer (A+)** — Government of Pakistan
-- ✅ Selected candidate for the **Microsoft International Certification Exam**
-- 🌱 Currently exploring Deep Learning (Andrew Ng's Specialization) and QA automation with Selenium
-- 💼 Open to **Summer 2026 internships** in Full-Stack / Applied AI roles
-
-<br>
+| Role | Where | What I worked on |
+|---|---|---|
+| **AI/ML Intern** | Systems Limited, Lahore | Applied AI/ML work (on-site, Oct 2026 – present) |
+| **AI Engineer Intern** | MoinSystems AI | Built and deployed a production website chatbot: RAG, lead capture, email notifications, React widget |
 
 ---
 
-<br>
+## 🚀 Featured Projects
 
-### 🛠️ Tech Stack
+<table>
+<tr>
+<td width="50%" valign="top">
 
-#### Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+### 🚦 [IntelliRoads](https://github.com/humna-saqib/IntelliRoads) — Final Year Project
+AI-based traffic signal optimization. A **DQN agent** controls 4 junctions in a SUMO simulation and beats fixed-time and rule-based controllers (**~16% lower average waiting time**, p < 0.001). Includes a live dashboard, alert history and PDF reports.
 
-#### Frontend
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+`Python` `SUMO / TraCI` `DQN` `FastAPI` `React` `TypeScript`
 
-#### Backend
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</td>
+<td width="50%" valign="top">
 
-#### AI / ML & Data
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+### 💬 [MoinSystems AI Chatbot](https://github.com/areeba83/moin-ai-chatbot)
+Public website chatbot with **RAG** over a curated knowledge base, lead capture with server-side validation, email notifications and an embeddable React widget. Built test-first with **130+ backend tests**.
 
-#### Tools
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+`FastAPI` `PostgreSQL + pgvector` `Gemini` `React + TS` `Railway`
 
-<br>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [AreebaBot](https://github.com/areeba83/AreebaBot)
+Personal RAG chatbot that answers questions about me using my CV as its knowledge base. Deployed on Streamlit Community Cloud.
+
+`LangChain` `FAISS` `HuggingFace` `Groq` `Streamlit`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 [SauceDemo Test Automation](https://github.com/areeba83/saucedemo-automation)
+Selenium test suite using the **Page Object Model**, with 11/11 tests passing.
+
+`Python` `Selenium` `pytest`
+
+</td>
+</tr>
+</table>
+
+**More:** 👗 Fashion-MNIST classifier comparing 5 neural architectures (best 88.83%) · 🏦 LegacySecure Bank: legacy code refactored through 5 versions with SOLID principles and characterization tests · 🌐 [Portfolio website](https://github.com/areeba83/Portfolio)
 
 ---
 
-<br>
+## 🛠️ Tech Stack
 
-### 📌 Featured Projects
+**AI / ML**
 
-- 🤖 **[AreebaBot](https://github.com/areeba83/AreebaBot)** <br> RAG-based personal AI chatbot — LangChain + FAISS + HuggingFace embeddings + Groq LLM, deployed on Streamlit
-- 🚦 **IntelliRoads** <br> AI-driven traffic signal optimization using SUMO/TraCI, built in a 4-member Scrum team (FYP — In Progress)
-- 🛒 **E-Commerce Test Automation Suite** <br> 11-case Selenium regression suite (Page Object Model) — 100% pass rate on checkout & login flows
-- 🏦 **LegacySecure Bank** <br> Refactored a legacy Python banking system through 4 progressive versions (V0–V4) + PyQt5 GUI
-- 🌐 **[Portfolio Website](https://portfolio-mu-livid-44.vercel.app/)** <br> Personal portfolio built with HTML/CSS/JS
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-RAG-0467DF?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![DQN](https://img.shields.io/badge/Reinforcement%20Learning-DQN-A855F7?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-<br>
+**Full-Stack**
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,mongodb,fastapi,django,postgres&theme=dark" alt="full stack skills"/>
+
+**Languages & Tools**
+
+<img src="https://skillicons.dev/icons?i=java,androidstudio,python,git,github,vscode,figma&theme=dark" alt="tools"/>
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
 ---
 
-<br>
+## 🎯 What I'm Working On
 
-### 📊 GitHub Stats
+- 🔭 Applied AI/ML work at Systems Limited
+- 📈 Improving RAG retrieval quality and evaluation
+- 🌐 Updating my portfolio with my latest projects
+
+---
+
+## 📫 Let's Connect
+
+Open to AI/ML and full-stack opportunities, collaborations and good conversations about RAG, RL and building things that actually ship.
+
+- 📧 areeba.amar.khan@gmail.com
+- 🔗 [linkedin.com/in/areeba-amir-a43491271](https://www.linkedin.com/in/areeba-amir-a43491271/)
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=areeba83&show_icons=true&bg_color=0F2027&title_color=2C5364&text_color=ffffff&icon_color=2C5364&hide_border=true" height="165" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=areeba83&layout=compact&bg_color=0F2027&title_color=2C5364&text_color=ffffff&icon_color=2C5364&hide_border=true" height="165" />
-  
-  <br><br>
-  
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=areeba83&background=0F2027&stroke=2C5364&ring=2C5364&fire=2C5364&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</div>
 
-<br>
+⭐ Thanks for stopping by!
 
----
-
-<br>
-
-### 📫 Reach Me
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=areeba83&color=2c5364&style=flat" alt="profile views" />
 </div>
