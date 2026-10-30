@@ -76,7 +76,11 @@ Selenium test suite using the **Page Object Model**, with 11/11 tests passing.
 </tr>
 </table>
 
-**More:** 👗 Fashion-MNIST classifier comparing 5 neural architectures (best 88.83%) · 🏦 LegacySecure Bank: legacy code refactored through 5 versions with SOLID principles and characterization tests · 🌐 [Portfolio website](https://portfolio-mu-livid-44.vercel.app/)
+**More projects:**
+
+- 👗 **Fashion-MNIST Classifier** — comparing 5 neural architectures (best **88.83%**)
+- 🏦 **LegacySecure Bank** — legacy code refactored through 5 versions with SOLID principles & characterization tests
+- 🌐 **[Portfolio website](https://portfolio-mu-livid-44.vercel.app/)**
 
 ---
 
